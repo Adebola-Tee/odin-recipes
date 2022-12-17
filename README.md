@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project on Odin using Html and perhaps CSS along the line to understand the basics of building a website. So far, the ride to learning this concept has been amazing. Hoping to get better and make more projects!
